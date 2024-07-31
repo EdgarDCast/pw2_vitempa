@@ -1,4 +1,4 @@
-export var Ruta = "/ProyectoPw-2/"
+export var Ruta = "/pw2_vitemp/"
 export const RutaImg = "/CentroBasico/imagenes/"
 export const navegacion = [{
     name: "Propuestas",
